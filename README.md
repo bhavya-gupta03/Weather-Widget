@@ -24,3 +24,4 @@ A minimal, responsive weather widget built using **ReactJS**, which displays rea
 
 ---
 
+<img width="465" height="857" alt="image" src="https://github.com/user-attachments/assets/d172fc79-e31a-4178-9c35-a9620842e9cd" />
